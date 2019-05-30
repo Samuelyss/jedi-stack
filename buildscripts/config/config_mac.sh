@@ -52,7 +52,7 @@ export        STACK_BUILD_ODB=Y
 
 # Optional Additions
 export           STACK_BUILD_PIO=N
-export        STACK_BUILD_PYJEDI=Y
+export        STACK_BUILD_PYJEDI=N
 export      STACK_BUILD_NCEPLIBS=N
 export        STACK_BUILD_JASPER=N
 export     STACK_BUILD_ARMADILLO=N

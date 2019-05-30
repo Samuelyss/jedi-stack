@@ -24,6 +24,8 @@ load("ecbuild/2.9.0")
 load("eckit/0.23.0")
 load("fckit/jcsda-develop")
 
+load("nccmp/1.8.2.1")
+
 whatis("Name: ".. pkgName)
 whatis("Version: ".. pkgVersion)
 whatis("Category: Application")
